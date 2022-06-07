@@ -2,8 +2,12 @@
 
 
 ### Dependencies
+
+```
 Discord.js
-Axios.js
+Axios
+
+```
 
 ## APIs Used Documentation
 
@@ -11,6 +15,7 @@ https://viacep.com.br
 
 http://cep.la/
 
+https://discord.com/developers/docs
 
 ### Copy and name file config.example.js to config.js
 
